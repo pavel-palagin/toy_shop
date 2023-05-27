@@ -1,12 +1,12 @@
 package shop;
 
-public class toys {
+public class Toys {
     private String name;
     private int count;
     private int id;
     private int frequency;
 
-    public toys(String name, int count, int id, int frequency) {
+    public Toys(String name, int count, int id, int frequency) {
         this.name = name;
         this.count = count;
         this.id = id;
@@ -22,5 +22,7 @@ public class toys {
                 ", count=" + count +
                 ", id=" + id +
                 '}';
+
+    }
 
 }
