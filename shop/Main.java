@@ -1,5 +1,6 @@
 package shop;
 
+import java.io.File;
 import java.util.ArrayList;
 
 public class Main {
@@ -17,6 +18,13 @@ public class Main {
     AllToys.add(String.valueOf(toys3));
     AllToys.add(String.valueOf(toys4));
     AllToys.add(String.valueOf(toys5));
+
+    int n = (int)Math.floor(Math.random() * AllToys.size());
+    System.out.println(AllToys.get(n));
+
+    File file = new File("C:\\Users\\Pavel\\IdeaProjects\\untitled3\\toy_shop\\shop");
+    String text = AllToys.get(n);
+
 
 
 
