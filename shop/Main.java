@@ -34,7 +34,7 @@ public class Main {
             writer.write(text + lineSeparator);
             writer.flush();
             writer.close();
-            System.out.println("Successfully written data to the file");
+            System.out.println("Успешная запись в файл");
         } catch (IOException e) {
             e.printStackTrace();
         }
