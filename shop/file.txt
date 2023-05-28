@@ -1,5 +1,3 @@
 Toys{name=cars, count=145, id=0}
 Toys{name=cars, count=145, id=0}
 Toys{name=dolls, count=60, id=1111}
-Toys{name=cars, count=145, id=0}
-Toys{name=cars, count=145, id=0}
