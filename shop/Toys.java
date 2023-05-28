@@ -17,12 +17,13 @@ public class Toys {
     @Override
     public String toString() {
 
-        return "Toys{" +
+        String s = "Toys{" +
                 "name=" + name +
                 ", count=" + count +
                 ", id=" + id +
                 '}';
 
+        return s;
     }
 
 }

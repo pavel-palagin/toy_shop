@@ -1,3 +1,9 @@
 Toys{name=cars, count=145, id=0}
 Toys{name=cars, count=145, id=0}
 Toys{name=dolls, count=60, id=1111}
+<<<<<<< HEAD
+=======
+Toys{name=cars, count=145, id=0}
+Toys{name=cars, count=145, id=0}
+Toys{name=balls, count=70, id=3333}
+>>>>>>> 36654938eab4c6602e69c2c3a20cbabdf8b78222
